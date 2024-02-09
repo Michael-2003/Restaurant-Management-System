@@ -1,0 +1,1 @@
+Designed and implemented a comprehensive Restaurant Management System using Python and Tkinter GUI framework. This system provides an intuitive interface for restaurant staff to efficiently manage orders, track inventory, and streamline overall restaurant operations.
